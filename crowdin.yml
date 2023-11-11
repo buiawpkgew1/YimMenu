@@ -1,3 +1,6 @@
+pull_request_title: 'chore(i18n): update crowdin translation'
+commit_message: 'chore(i18n): update translations for `%language%`'
+append_commit_message: 
 files:
   - source: /en_US.json
     translation: /zh/%locale_with_underscore%.json
